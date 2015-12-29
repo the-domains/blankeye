@@ -1,0 +1,28 @@
+name: blankeye
+favicon: null
+layout_spectrum: 0.6316330749541521
+typography_spectrum: 0.8388059227727354
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.4021025551483035
+  lightness: 0.8000423631165177
+  saturation: 0.12552923383191228
+  rhythmicContrast: 0.8280831340234727
+purpose: []
